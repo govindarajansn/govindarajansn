@@ -11,8 +11,24 @@
 
 - 📫 How to reach me **govindarajan.sn@northeastern.edu**
 
+
+
+
+My Portfolio -- https://www.snehagovindarajan.com/
+<img width="1467" alt="image" src="https://github.com/govindarajansn/govindarajansn/assets/113317843/355dad01-8ae3-4ad4-9f3c-5cd3d5d73204">
+
+
 Project 1 : https://car-model-threejs.vercel.app/ 
 <img width="1465" alt="car-thumbnail" src="https://github.com/govindarajansn/govindarajansn/assets/113317843/807586af-8f42-4e21-a917-e22821fa0688">
+
+Project 2 : https://huggy-buddy.vercel.app/
+<img width="1470" alt="image" src="https://github.com/govindarajansn/govindarajansn/assets/113317843/493faf9c-c9eb-4c3a-8a49-5273c8e6b62d">
+
+Project 3 : https://cook-book-mealdb.vercel.app/
+<img width="1468" alt="image" src="https://github.com/govindarajansn/govindarajansn/assets/113317843/8aa14840-72f3-4ccd-bff6-78c7bb14e07e">
+
+Project 4 : https://happify-music-db.vercel.app/
+<img width="1467" alt="image" src="https://github.com/govindarajansn/govindarajansn/assets/113317843/ed16145e-4a5d-4d95-8a7e-4d7d0a7ad6ca">
 
 
 <h3 align="left">Connect with me:</h3>
