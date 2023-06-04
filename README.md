@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **govindarajan.sn@northeastern.edu**
 
+Project 1 : https://car-model-threejs.vercel.app/ 
+<img width="1465" alt="car-thumbnail" src="https://github.com/govindarajansn/govindarajansn/assets/113317843/807586af-8f42-4e21-a917-e22821fa0688">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sneha-govindarajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-govindarajan/" height="30" width="40" /></a>
