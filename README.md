@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sneha Govindarajan</h1>
-<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Three.js Car Animation**
+```js
+"use creativity";
+import { Person } from 'USA';
 
-- 🌱 I’m currently learning **Vue.js, Three.js, AWS, GCP**
+new Person({
+    name   : 'Sneha Govindarajan',
+    title  : 'Full Stack Developer',
+    email  : 'govindarajan.sn@northeastern.edu',
+    website: 'https://www.snehagovindarajan.com/',
+    junior : !!!false,
+}).introduce();
+```
 
-- 👨‍💻 All of my projects are available at [https://www.snehagovindarajan.com/](https://www.snehagovindarajan.com/)
-
-- 💬 Ask me about **Angular, React, Javascript, Node.js**
-
-- 📫 How to reach me **govindarajan.sn@northeastern.edu**
-
-
+```cmd
+D:\Sneha-Govindarajan> node index.js
+Hi, my name is Sneha Govindarajan, I'm a Full Stack Developer from USA.
+```
 
 
 My Portfolio -- https://www.snehagovindarajan.com/
