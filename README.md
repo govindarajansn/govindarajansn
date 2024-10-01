@@ -14,7 +14,7 @@ new Person({
 
 ```cmd
 D:\Sneha-Govindarajan> node index.js
-Hi, my name is Sneha Govindarajan, Currently Software Engineer Intern at SAP Inc, PA, USA. Actively looking for full time Roftware Engineer roles
+Hi, my name is Sneha Govindarajan, Currently Software Engineer Intern at SAP America Inc., Newtown Square, PA, USA. Actively looking for full time Roftware Engineer roles
 ```
 
 
