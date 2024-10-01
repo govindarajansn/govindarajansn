@@ -14,7 +14,7 @@ new Person({
 
 ```cmd
 D:\Sneha-Govindarajan> node index.js
-Hi, my name is Sneha Govindarajan, I'm a Full Stack Developer from USA.
+Hi, my name is Sneha Govindarajan, Currently Software Engineer Intern at SAP. Actively looking for full time Roftware Engineer roles
 ```
 
 
