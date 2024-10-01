@@ -19,8 +19,6 @@ Hi, my name is Sneha Govindarajan, I'm a Full Stack Developer from USA.
 
 
 My Portfolio -- https://www.snehagovindarajan.com/
-<img width="1467" alt="image" src="https://github.com/govindarajansn/govindarajansn/assets/113317843/355dad01-8ae3-4ad4-9f3c-5cd3d5d73204">
-
 
 Project 1 : https://car-model-threejs.vercel.app/ 
 <img width="1465" alt="car-thumbnail" src="https://github.com/govindarajansn/govindarajansn/assets/113317843/807586af-8f42-4e21-a917-e22821fa0688">
